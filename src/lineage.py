@@ -19,5 +19,5 @@ class PipelineLineage:
             eventTime=datetime.now(timezone.utc).isoformat(),
             run=self.run,
             job=self.job,
-            producer="https://github.com/customer-support-intelligence",
+           producer="https://github.com/N-11-N/real-time-customer-support-intelligence",
         ))
