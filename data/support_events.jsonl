@@ -1,0 +1,4 @@
+{"event_id":"evt-001","ticket_id":"T-1001","customer_id":"C-901","channel":"chat","subject":"Refund status","message":"Where is my refund for order ORD-778?","created_at":"2026-07-16T08:00:00Z","priority":"high"}
+{"event_id":"evt-002","ticket_id":"T-1002","customer_id":"C-902","channel":"email","subject":"Password reset","message":"Send the new reset link to customer@example.com please.","created_at":"2026-07-16T08:01:00Z","priority":"medium"}
+{"event_id":"evt-003","ticket_id":"T-1003","customer_id":"C-903","channel":"chat","subject":"Damaged product","message":"My headphones arrived damaged. How can I replace them?","created_at":"2026-07-16T08:02:00Z","priority":"high"}
+{"event_id":"evt-bad","ticket_id":"","customer_id":"C-904","channel":"fax","subject":"x","message":"short","created_at":"not-a-date","priority":"urgent"}

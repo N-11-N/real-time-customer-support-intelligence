@@ -1,0 +1,7 @@
+[
+  {"question":"How long does an approved refund take?","expected_article_id":"KB-001"},
+  {"question":"What should I do when the password reset link expires?","expected_article_id":"KB-002"},
+  {"question":"How do I replace an item that arrived damaged?","expected_article_id":"KB-003"},
+  {"question":"Which sensitive details must not enter the vector database?","expected_article_id":"KB-004"}
+]
+

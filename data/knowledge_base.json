@@ -1,0 +1,7 @@
+[
+  {"article_id":"KB-001","title":"Refund processing","body":"Approved refunds are returned to the original payment method within five to seven business days. Agents should cite the order number and never request full card details.","updated_at":"2026-07-01T00:00:00Z"},
+  {"article_id":"KB-002","title":"Password reset troubleshooting","body":"If a password reset link expires, request a new link from the sign-in page. Clear browser cookies and verify that the account email is correct. Support agents must never ask for a password.","updated_at":"2026-07-02T00:00:00Z"},
+  {"article_id":"KB-003","title":"Damaged item replacement","body":"Report damaged items within fourteen days of delivery. Upload a photo of the damage and the order label. Once approved, a prepaid return label is issued and a replacement is dispatched.","updated_at":"2026-07-03T00:00:00Z"},
+  {"article_id":"KB-004","title":"Privacy and PII","body":"Customer support records must not expose passwords, full card numbers, or government identifiers. Email addresses and phone numbers must be masked before analytics or vector indexing.","updated_at":"2026-07-04T00:00:00Z"}
+]
+
