@@ -1,0 +1,4 @@
+# Airflow is deployed separately from the ephemeral Colab demonstration.
+apache-airflow>=2.10,<4
+-r requirements.txt
+

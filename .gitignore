@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+*.log
+artifacts/
+data/lakehouse/
+data/chroma/
+lineage_events/
+kafka_*/
+
