@@ -1,6 +1,6 @@
 # Real-Time Customer Support Intelligence Platform
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/customer-support-intelligence/blob/main/notebooks/customer_support_intelligence_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/N-11-N/real-time-customer-support-intelligence/blob/main/notebooks/customer_support_intelligence_colab.ipynb)
 
 An end-to-end, Colab-ready data platform that ingests customer-support events through Kafka, enforces a Pydantic data contract, persists trusted data in a Bronze/Silver/Gold Delta Lakehouse, runs Great Expectations quality gates, masks PII, emits OpenLineage events, and serves grounded answers through hybrid RAG with cross-encoder reranking.
 
@@ -41,10 +41,9 @@ flowchart LR
 
 ## Quick start in Google Colab
 
-1. Upload this repository to GitHub.
-2. Replace `YOUR_USERNAME` in the Colab badge URL.
-3. Open `notebooks/customer_support_intelligence_colab.ipynb` to review the already executed pipeline and its outputs.
-4. To run from a blank state, open `notebooks/customer_support_intelligence_clean.ipynb` and select **Runtime → Run all**. A CPU runtime is sufficient; GPU only speeds up model inference.
+1. Click the **Open in Colab** badge above.
+2. Review the executed notebook and its saved outputs.
+3. To run from a blank state, open `notebooks/customer_support_intelligence_clean.ipynb` and select **Runtime → Run all**. A CPU runtime is sufficient; GPU only speeds up model inference.
 
 The notebook installs the required dependencies, starts a local Kafka KRaft broker, executes all pipeline stages, and prints a final rubric checklist. It requires no paid API key. The RAG answer is extractive and fully grounded; an optional LLM can later be added behind the same retrieval interface.
 
